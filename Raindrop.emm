@@ -1,0 +1,12 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = C:\Users\sk333_000\Documents\Visual Studio 2013\Projects\MME\Line.x
+Acs3 = C:\Users\sk333_000\Documents\Visual Studio 2013\Projects\MME\Surface.x
+
+[Effect]
+Default = none
+Acs1 = C:\Users\sk333_000\Documents\Visual Studio 2013\Projects\MME\Line.fx
+Acs3 = none
+
