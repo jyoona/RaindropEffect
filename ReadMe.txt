@@ -1,4 +1,11 @@
 
+RainDrop Effect for Miku Miku Dance
+
+Created January 2015.
+Uses HLSL.
+
+
+
 How to Use this Raindrop:
 
 1- Import Line.x in MMD
